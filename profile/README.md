@@ -1,12 +1,17 @@
-## Hi there 👋
+## CALM - Canvas And Lisp Magic
 
-<!--
+![calm](calm.png)
 
-**Here are some ideas to get you started:**
+CALM is a Lisp image bundled with a 2D graphic library. Currently supported operating system include the [latest](https://github.com/actions/virtual-environments/) Linux, macOS, and Windows.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+CALM is designed to provide a convenient way to distribute 2D graphic applications on all platforms while taking advantages of the magic of Lisp language.
+
+
+
+The [releases](https://github.com/calm2d/calm/releases) are distributed as a compressed archive file, and the cardinal source code can be modified without rebuilding the system.
+
+
+
+CALM is [free software](https://www.fsf.org/licensing/essays/free-sw.html) and is available to be redistributed and/or modified under the terms of the [Mozilla Public License (MPL)](http://mozilla.org/MPL/2.0/).
