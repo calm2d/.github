@@ -2,11 +2,11 @@
 
 ![calm](profile/calm.png)
 
-CALM is a Lisp image bundled with a 2D graphic library. Currently supported operating system include the [latest](https://github.com/actions/virtual-environments/) Linux, macOS, and Windows.
+CALM is a Lisp image bundled with a 2D graphics library. Currently supported operating systems include the [latest](https://github.com/actions/virtual-environments/) Linux, macOS, and Windows.
 
 
 
-CALM is designed to provide a convenient way to distribute 2D graphic applications on all platforms while taking advantages of the magic of Lisp language.
+CALM is designed to provide a convenient way to distribute 2D graphic applications on all platforms while taking advantage of the magic of Lisp language.
 
 
 
