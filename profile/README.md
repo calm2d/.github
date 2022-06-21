@@ -1,6 +1,6 @@
 ## CALM - Canvas And Lisp Magic
 
-![calm](calm.png)
+![calm](profile/calm.png)
 
 CALM is a Lisp image bundled with a 2D graphic library. Currently supported operating system include the [latest](https://github.com/actions/virtual-environments/) Linux, macOS, and Windows.
 
