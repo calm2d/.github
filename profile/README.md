@@ -22,4 +22,4 @@ and prevent non-wizard users to:
 
 - install dependencies via the scary black terminals
 - install Lisp implemetations
-- say that [Lisp has no hope](https://news.ycombinator.com/item?id=10103775)
+- say that "Lisp has no hope"
