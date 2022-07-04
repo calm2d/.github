@@ -2,16 +2,22 @@
 
 ![calm](profile/calm.png)
 
-CALM is a Lisp image bundled with a 2D graphics library. Currently supported operating systems include the [latest](https://github.com/actions/virtual-environments/) Linux, macOS, and Windows.
+A Lisp image pre-bundled with [SDL](https://libsdl.org/) and [Cairo](https://cairographics.org/).
 
+With CALM, you have:
 
+- a cross-platform access to audio, keyboard, mouse, joystick, and graphics hardware
+- a 2D graphics library for you to draw anything to your screen
 
-CALM is designed to provide a convenient way to distribute 2D graphic applications on all platforms while taking advantage of the magic of Lisp language.
+you can:
 
+- build a game
+- generate an art painting
+- make an cross-platform application
+- ...
 
+without making your user to:
 
-The [releases](https://github.com/calm2d/calm/releases) are distributed as a compressed archive file, and the cardinal source code can be modified without rebuilding the system.
-
-
-
-CALM is [free software](https://www.fsf.org/licensing/essays/free-sw.html) and is available to be redistributed and/or modified under the terms of the [Mozilla Public License (MPL)](http://mozilla.org/MPL/2.0/).
+- install dependencies (via the scary black terminals)
+- install Lisp implemetations
+- say that your are just bluffing
