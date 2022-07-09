@@ -22,4 +22,4 @@ and prevent non-wizard users to:
 
 - install dependencies via the scary black terminals
 - install Lisp implemetations
-- say that "Lisp has no hope"
+- read a long manual to get your Lisp based software working
